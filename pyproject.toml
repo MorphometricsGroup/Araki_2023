@@ -2,7 +2,7 @@
 authors = ["Araki, Amane <araki@morphometrics.jp>, Noshita, Koji <noshita@morphometrics.jp>"]
 description = ""
 name = "araki_2023"
-version = "0.1.0"
+version = "1.1.0"
 
 [tool.poetry.dependencies]
 jupyter = "^1.0.0"
